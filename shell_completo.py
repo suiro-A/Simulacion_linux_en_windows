@@ -387,7 +387,7 @@ def abrir_autores():
     doc_ventana.title("AUTORES")
     doc_ventana.geometry("400x200")
     texto_documentacion = (
-        "\n\nESTUDIANTES DE ESCUELA DE INFORMA DE LA UNT\n"
+        "\n\nESTUDIANTES DE ESCUELA DE INFORMÁTICA DE LA UNT\n"
         "Arteaga Rodríguez Aaron Kaleb\n "
         "Cruz Rebaza Stalin Ricardo\n"
         "Flores Lozano Julio Isidro\n "
